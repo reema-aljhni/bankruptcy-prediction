@@ -1,0 +1,28 @@
+# Python Bytecode & Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (If large or confidential)
+*.csv
+*.xlsx
+
+# Environment & Secret files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
